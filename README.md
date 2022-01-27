@@ -1,8 +1,8 @@
 # demo-spring-react-example: dsre
 
 Storybook is here:
-* Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/>
-* QA:  <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/>
+* Production: <https://ucsb-cs156-w22.github.io/jpa03-sophiajmoore-docs/storybook>
+* QA:  <https://ucsb-cs156-w22.github.io/jpa03-sophiajmoore-docs-qa/storybook>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
