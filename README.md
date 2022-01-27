@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sophiajmoore/branch/main/graph/badge.svg?token=Zh41z1fr0V)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sophiajmoore)
 
-Storybook is here:
+Storybook is located here:
 * Production: <https://ucsb-cs156-w22.github.io/jpa03-sophiajmoore-docs/storybook>
 * QA:  <https://ucsb-cs156-w22.github.io/jpa03-sophiajmoore-docs-qa/storybook>
 
