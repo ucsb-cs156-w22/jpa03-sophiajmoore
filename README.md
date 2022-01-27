@@ -1,5 +1,7 @@
 # demo-spring-react-example: dsre
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sophiajmoore/branch/main/graph/badge.svg?token=Zh41z1fr0V)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sophiajmoore)
+
 Storybook is here:
 * Production: <https://ucsb-cs156-w22.github.io/jpa03-sophiajmoore-docs/storybook>
 * QA:  <https://ucsb-cs156-w22.github.io/jpa03-sophiajmoore-docs-qa/storybook>
@@ -103,5 +105,3 @@ To access the swagger API endpoints, use:
   - Enter `psql $DATABASE_URL` and click `Run`
    
     <img alt="Enter psql $DATABASE_URL and click Run" src="https://user-images.githubusercontent.com/1119017/150206174-43193825-1afd-49f4-aeaf-cfadf0c0c6f3.png" width="400" />
-
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sophiajmoore/branch/main/graph/badge.svg?token=Zh41z1fr0V)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sophiajmoore)
